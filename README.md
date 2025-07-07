@@ -46,10 +46,6 @@ A aplicação permite cadastrar membros de um time de tecnologia, organizando-os
    ```bash
    npm start
    ```
-
-## 📷 Demonstração
-
-![img.png](img.png)
 ---
 
 ## 👩‍💻 Aprendizados
